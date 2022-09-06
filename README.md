@@ -1,2 +1,2 @@
-# memories
- social media MERN stack app
+# social media MERN stack app
+
